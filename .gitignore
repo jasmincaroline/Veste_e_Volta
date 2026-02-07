@@ -1,3 +1,5 @@
 ## Build results
 bin/
 obj/
+appsettings.json
+appsettings.*.json
